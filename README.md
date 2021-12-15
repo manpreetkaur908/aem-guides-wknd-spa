@@ -29,3 +29,7 @@ The project has been designed for **AEM as a Cloud Service**. The project is als
 ### Content Package & Implementation
 
 AKQA content page has the custom akqa form component that is rendered using react in the file custom.js. The form has basic validations and the backend logic has been handled in AKQAFormServlet.java. The unit test cases are available in AKQAFormServletTest.java.
+
+### References
+
+This project referes the Adobe AEM Weeknd spa for the basic project structure. The custom implemenation of AKQA form is then implemented over this basic setup.
