@@ -19,6 +19,8 @@ To build all the modules run in the project root directory the following command
 If you have a running AEM instance you can build and package the whole project and deploy into AEM with
 
     mvn clean install -PautoInstallSinglePackage (-Padobe-public)
+    
+The detailed steps with screenshots are mentioned in file Steps to setup AKQA Project.pdf
 
 ### Building for AEM 6.x.x
 
