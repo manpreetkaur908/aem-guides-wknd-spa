@@ -73,7 +73,7 @@ export default class Custom extends React.Component {
 				errorName: false
 			});
 			this.setState({
-				errorNumber: "The max allowed length of number is 10."
+				errorNumber: "The length of number field should be between 1 and 10."
 			});
 		} else {
 			this.setState({
